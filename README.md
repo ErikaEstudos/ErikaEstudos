@@ -14,7 +14,9 @@ src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736
 
   ##
  
+<h1>### &#128516;PENSAMENTO!!!!&#128516; ###</h1>
 
+<img align="center" alt="imagem pensamento" src="https://i.pinimg.com/originals/a6/0c/99/a60c9992e58a400cbfb1b3f4d08c8877.jpg" />
 
 
 
