@@ -16,7 +16,7 @@ src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736
  
 <h1>### &#128516;PENSAMENTO!!!!&#128516; ###</h1>
 
-<img align="center" alt="imagem pensamento" src="https://i.pinimg.com/originals/a6/0c/99/a60c9992e58a400cbfb1b3f4d08c8877.jpg" />
+<img align="center"  height="150" alt="imagem pensamento" src="https://cdn.pensador.com/img/imagens/pe/ns/pensador_frases_estudos_5.jpg?auto_optimize=low&width=655" />
 
 
 
