@@ -11,7 +11,7 @@
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    <img align="center" alt="Git" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png">
-<img align="center" alt="Cloud" height="30" width="40" src="https://banner2.cleanpng.com/20180422/ffq/kisspng-cloud-computing-logo-dedicated-hosting-service-int-5adcf1c6e84849.9531600715244292549514.jpg">
+<img align="center" alt="Cloud" height="30" width="40" src="https://banner2.cleanpng.com/20180926/aif/kisspng-cloud-computing-polygon-vector-graphics-informatio-servicii-it-virtualizare-colocare-backup-mente-5bab6470e1fe61.8417118415379590249257.jpg">
    
     
 </div>
