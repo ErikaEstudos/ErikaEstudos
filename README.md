@@ -11,7 +11,7 @@
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    <img align="center" alt="Git" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png">
-
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.imgbin.com/5/14/7/imgbin-cloud-computing-logo-cloud-storage-icon-blue-cloud-data-map-1PPTcTEFWXpwnDm4CZwRfpDbv.jpg">
    
     
 </div>
