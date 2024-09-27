@@ -12,7 +12,7 @@
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png">
 <img align="center" alt="Cloud" height="40" width="40" src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-3.png">
-<img align="center" alt="Mysql" height="40" width="40" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png">
+<img align="center" alt="Mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
     
 </div>
 
