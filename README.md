@@ -13,7 +13,7 @@
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png">
 <img align="center" alt="Cloud" height="40" width="40" src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-3.png">
 <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000">
-<img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000">   
+<img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000">   
 </div>
 
   ##
